@@ -19,8 +19,7 @@ El sistema está desarrollado en Java y hace uso de:
 - **Algoritmos de análisis lógico** para evaluar circuitos y generar tablas de verdad.
 
 👥 Autores del Proyecto
-    Kevin Torres - @kevintorresleonel
-- 
+- Kevin Torres - @kevintorresleonel
 
 Este proyecto aunque funcional, está en desarrollo y se encuentra abierto a mejoras y contribuciones.
 
